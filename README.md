@@ -1,10 +1,10 @@
-### Welcome
+### Welcome to my Github page
 
-Working on:
+I'm currently working on:
 - :notebook: Master's dissertation: "Connectionist Systems for Image Processing and Anomaly Detection"
 - :computer: [MARÉ Project](https://www.mare-project.org/?lang=en)
 
-Get in touch:
+Get in touch :smiley: 
 - :link: [Linkedin](https://www.linkedin.com/in/luisgomes24/?locale=en_US)
 - :link: [Twitter](https://twitter.com/luisgomes_24)
 - :link: [Instagram](https://www.instagram.com/luisgomes24/)
