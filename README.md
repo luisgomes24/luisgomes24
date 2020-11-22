@@ -1,6 +1,14 @@
-### Welcome to my Github page 
+### Welcome
 
-- Currently working on Master's dissertation: "Connectionist Systems for Image Processing and Anomaly Detection"
+Working on:
+- :notebook: Master's dissertation: "Connectionist Systems for Image Processing and Anomaly Detection"
+- :computer: [MARÉ Project](https://www.mare-project.org/?lang=en)
+
+Get in touch:
+- :link: [Linkedin](https://www.linkedin.com/in/luisgomes24/?locale=en_US)
+- :link: [Twitter](https://twitter.com/luisgomes_24)
+- :link: [Instagram](https://www.instagram.com/luisgomes24/)
+
 <!--
 **luisgomes24/luisgomes24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
