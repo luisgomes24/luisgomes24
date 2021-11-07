@@ -1,10 +1,8 @@
-### Welcome to my Github page
 
-Get in touch :smiley: 
-- :link: [Website](https://luisgomes24.github.io/)
-- :link: [Linkedin](https://www.linkedin.com/in/luisgomes24/?locale=en_US)
-- :link: [Twitter](https://twitter.com/luisgomes_24)
-- :link: [Instagram](https://www.instagram.com/luisgomes24/)
+
+- [Website](https://luisgomes24.github.io/)
+- [Linkedin](https://www.linkedin.com/in/luisgomes24/?locale=en_US)
+- [Twitter](https://twitter.com/luisgomes_24)
 
 <!--
 **luisgomes24/luisgomes24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
