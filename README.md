@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/-luisfgomes24-c13584?style=round-square&logo=instagram&logoColor=white)](https://www.instagram.com/luisfgomes24/)
 
 
-Check my [Website](https://luisgomes24.github.io/)!
+Know more about [me](https://luisgomes24.github.io/)!
 
 
 <!--
