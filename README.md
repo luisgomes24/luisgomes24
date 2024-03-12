@@ -1,5 +1,3 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm [Luís](https://luisgomes24.github.io/)!
-
 ## 🎓 PhD Student
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/c8b32127075137.5635f930a8c2d.gif" />
 
