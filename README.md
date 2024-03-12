@@ -1,6 +1,4 @@
 ## 🎓 PhD Student
-<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/c8b32127075137.5635f930a8c2d.gif" />
-
 - Dual Degree PhD student - [CMU Portugal](https://www.cmuportugal.org/students/luis-filipe-fernandes-gomes/)
   - Computer Science at [FEUP](https://www.up.pt/portal/en/feud/)
   - Software Engineering at [CMU S3D](https://s3d.cmu.edu/)
