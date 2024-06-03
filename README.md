@@ -7,11 +7,9 @@
 ## 🌍 Social
 
 [![Linkedin](https://img.shields.io/badge/-luisgomes24-blue?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisgomes24/?locale=en_US) 
-[![Twitter](https://img.shields.io/badge/-luisfgomes24-1ca0f1?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/luisfgomes24) 
-[![Instagram](https://img.shields.io/badge/-luisfgomes24-c13584?style=round-square&logo=instagram&logoColor=white)](https://www.instagram.com/luisfgomes24/)
+[![Twitter](https://img.shields.io/badge/-luisfgomes24-1ca0f1?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/luisfgomes24)
 
-
-Know more about [me](https://luisgomes24.github.io/)!
+[Website](https://luisgomes24.github.io/)!
 
 
 <!--
